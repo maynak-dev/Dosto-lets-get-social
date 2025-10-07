@@ -21,21 +21,13 @@ Built with Django and vanilla JavaScript, it focuses on simplicity, speed, and l
 ## ✨ Features
 
 - 🔐 User Signup, Login & Logout (Django Authentication)
-- 
 - 🧑‍🤝‍🧑 Follow / Unfollow other users
-- 
 - 📝 Create, Edit, and Delete posts
-- 
 - ❤️ Like / Unlike posts
-- 
 - 🏠 Personalized feed showing followed users’ posts
-- 
 - 🖼️ Upload and view images with posts
-- 
 - 🔍 View user profiles
-- 
 - ⚙️ Admin panel for managing users and posts
-- 
 - 💻 Responsive frontend (HTML, CSS, JS)
 
 ---
