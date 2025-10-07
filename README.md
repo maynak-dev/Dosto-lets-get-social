@@ -44,25 +44,43 @@ Built with Django and vanilla JavaScript, it focuses on simplicity, speed, and l
 | **Version Control** | Git + GitHub |
 
 ---
+## 🗂️ Project Structure
 
 Dosto-lets-get-social/
 │
+
 ├── Dosto/ # Main Django project config
+
 │ ├── settings.py
+
 │ ├── urls.py
+
 │ └── ...
+
 │
+
 ├── core/ # Main application (posts, profiles, follows)
+
 │ ├── models.py
+
 │ ├── views.py
+
 │ ├── urls.py
+
 │ ├── templates/core/
+
 │ └── static/core/
+
 │
+
 ├── media/ # Uploaded media files
+
 ├── static/ # Static assets (CSS, JS, images)
+
 ├── templates/ # Global templates
+
 ├── manage.py
+
 └── db.sqlite3
 
 ---
@@ -147,8 +165,9 @@ This project is licensed under the MIT License — see the LICENSE
  file for details.
 
 👨‍💻**Author**
-**Maynak Dey**
-📧 work.maynak@gmail.com
-🌐 GitHub Profile(https://github.com/maynak-dev)
-## 🗂️ Project Structure
 
+**Maynak Dey**
+
+📧 work.maynak@gmail.com
+
+🌐 GitHub Profile(https://github.com/maynak-dev)
