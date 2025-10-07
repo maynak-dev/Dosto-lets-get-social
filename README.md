@@ -160,13 +160,20 @@ Live link:
 
 💡 **Future Enhancements**
 
-  -💬 Comment system  
-  -🔔 Notifications (likes, follows, comments)  
-  -📱 Mobile-friendly UI with modern design
-  -🌙 Dark Mode
-  -📨 Direct messaging / Chat feature
-  -🔍 Search functionality
-  -🧠 Recommendation engine (suggest users to follow)
+-💬 Comment system
+
+-🔔 Notifications (likes, follows, comments)
+
+-📱 Mobile-friendly UI with modern design
+
+-🌙 Dark Mode
+
+-📨 Direct messaging / Chat feature
+
+-🔍 Search functionality
+
+-🧠 Recommendation engine (suggest users to follow)
+
 🧾 **License**
 
 This project is licensed under the MIT License — see the LICENSE
