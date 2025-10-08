@@ -1,4 +1,4 @@
-# 🌐 Dosto — Let’s Get Social
+<img width="1341" height="682" alt="image" src="https://github.com/user-attachments/assets/a361f60a-cfc7-4ef8-8421-3e54b09bdc8c" /># 🌐 Dosto — Let’s Get Social
 
 > A simple and modern **social media web app** built with **Django**, **HTML**, **CSS**, and **JavaScript**.
 
@@ -148,7 +148,7 @@ http://127.0.0.1:8000/
 
 This project is hosted on Render for public access.
 Live link:
-🔗 Coming Soon
+🔗 [Live Demo](https://dosto-lets-get-social-1.onrender.com/)
 
 💡 **Future Enhancements**
 
